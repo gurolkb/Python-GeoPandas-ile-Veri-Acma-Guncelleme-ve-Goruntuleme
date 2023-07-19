@@ -14,4 +14,4 @@ Veri açıldıktan sonra ilçelere ait poligonların görüntülenmesi.
 
 ![Figure_3](https://github.com/gurolkb/Python-GeoPandas-ile-Veri-Acma-Guncelleme-ve-Goruntuleme/assets/129385033/730e876a-f176-4cd1-b485-73ce9f0af995)
 
-İlçelere ait poligonların alanlarının hesaplanarak km^2 başına düşen kişi sayısının bulunması ve gösterilmesi.
+İlçelere ait poligonların alanlarının hesaplanarak km^2 başına düşen kişi sayısının bulunarak ve gösterilmesi.
